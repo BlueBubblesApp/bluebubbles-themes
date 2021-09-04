@@ -1,0 +1,80 @@
+[
+    {
+        "name": "OLED Dark",
+        "selectedLightTheme": 0,
+        "selectedDarkTheme": 0,
+        "gradientBg": 0,
+        "entries": [
+            {
+                "name": "Headline1",
+                "themeId": null,
+                "color": "ffffffff",
+                "isFont": 1,
+                "fontSize": 18
+            },
+            {
+                "name": "Headline2",
+                "themeId": null,
+                "color": "ffffffff",
+                "isFont": 1,
+                "fontSize": 14
+            },
+            {
+                "name": "Bodytext1",
+                "themeId": null,
+                "color": "ffffffff",
+                "isFont": 1,
+                "fontSize": 15
+            },
+            {
+                "name": "BodyText2",
+                "themeId": null,
+                "color": "ffffffff",
+                "isFont": 1,
+                "fontSize": 15
+            },
+            {
+                "name": "Subtitle1",
+                "themeId": null,
+                "color": "ff919191",
+                "isFont": 1,
+                "fontSize": 14
+            },
+            {
+                "name": "Subtitle2",
+                "themeId": null,
+                "color": "ff7d7d7d",
+                "isFont": 1,
+                "fontSize": 11
+            },
+            {
+                "name": "AccentColor",
+                "themeId": null,
+                "color": "ff26262a",
+                "isFont": 0,
+                "fontSize": null
+            },
+            {
+                "name": "DividerColor",
+                "themeId": null,
+                "color": "ff27272a",
+                "isFont": 0,
+                "fontSize": null
+            },
+            {
+                "name": "BackgroundColor",
+                "themeId": null,
+                "color": "ff000000",
+                "isFont": 0,
+                "fontSize": null
+            },
+            {
+                "name": "PrimaryColor",
+                "themeId": null,
+                "color": "ff2196f3",
+                "isFont": 0,
+                "fontSize": null
+            }
+        ]
+    }
+]
